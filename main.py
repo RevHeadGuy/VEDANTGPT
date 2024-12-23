@@ -1,5 +1,5 @@
-# app id : 
-# public key : 
+# app id : *************
+# public key : ********************
 import discord
 import os
 import openai
